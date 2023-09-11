@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "c12eace096fd679e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2bcd3080a76de94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26e044928daefe2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ab069e91919ab66",
+    "type": "split",
+    "children": [
+      {
+        "id": "f404fb7dd60d9d82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5774f3fa6af6c876",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6714b75854df7389",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c7d05aa121722dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4849399ebe09c3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "88cace4e391ccc55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6ed845bcc96f9e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Javascript.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03daedab1c08d99c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Javascript.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "475c022e04d0a71a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b0923195eeda6d7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Javascript.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "26e044928daefe2b",
+  "lastOpenFiles": [
+    "Javascript.md",
+    "Proyectos/Guardian Protocol.md",
+    "Vault Resources/GuardianProtocol_stack_1.drawio.png",
+    "Vault Resources/Guardian_Protocol_architecture.jpeg",
+    "Web Development/Node Framework.md",
+    "Vault Resources/Blockout.png",
+    "Vault Resources/NodeSystem_Blockout.png",
+    "Web Development/Canvas.md",
+    "Rust/Variables.md",
+    "MongoDB Cookbook.md",
+    "Web Development/React (Typescript) Cookbook.md",
+    "Web Development/Web Audio.md",
+    "Vault Resources/AudioAPI.png",
+    "Untitled.md",
+    "Proyectos/maskla.dev.md",
+    "Proyectos/maskla.dev - Home.md",
+    "Rust/Ownership & Borrowing.md",
+    "Rust/Rust.md",
+    "Rust/Sentencias de Control.md",
+    "Rust/Iterators.md",
+    "Rust/Slices.md",
+    "Rust/Shadowing.md",
+    "Rust/Life Times.md",
+    "Data Overflow.md",
+    "Rust/Slicing.md",
+    "maskla.dev - About Maskla.md",
+    "maskla.dev - Portfolio.md",
+    "maskla.dev - MindNet.md",
+    "Rust",
+    "Vault Resources/Min_Logo_Maskla.png",
+    "Vault Resources/maskladev_HomeDesktopWireframe.png",
+    "Vault Resources/mapsite_maskla.dev.drawio.png",
+    "Proyectos/mapsite_maskla.dev.drawio 1.png.md",
+    "Vault Resources/Pasted image 20230711182333.png",
+    "Vault Resources/mapsite_maskla.dev.drawio 1.png",
+    "Musica/Diseño música videojuegos.md",
+    "Vault Resources",
+    "Musica/attachments",
+    "BEM.md",
+    "Proyectos",
+    "Musica",
+    "Untitled.canvas",
+    "Web Development"
+  ]
+}

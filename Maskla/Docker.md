@@ -1,0 +1,8 @@
+Docker is a software virtualization tool, it means that Docker cares to serve application dependencies in the building process. Docker works in the same way as commercial containers, containerize software, the result is a package easier to operate (update, build and scale). Docker have impact in the next subjects:
+- **Dependency**: Every software solution requires dependencies and the deployment standard requires cloud services. Some of them can handle a minimum dependency and config coverage, but in most cases, host environment configs are required. Docker packages an entire environment in an image (container), by this way, cloud environment config is minimum. Also, running 2 apps in the same service is easier with Docker because each one have their own running environment and dependency conflicts doesn't exist. 
+- **Scalability**: Images can be copy and distributed in a large server net ready to deploy, ideal in a growing business.
+- **Upgrades**: Docker can handle build targets, with this, different app versions can be deployed in a progressive way as needed. 
+# Container
+A container is a run environment. Contains the application and the needed packages (essentially OS runtime packages to handle runtimes, files, environment variables, standard input, output and errors and the dependency libraries). Container can be thought as a VM, it means that every container is isolated. 
+# Images and Registries
+A container is built from image specification, an image list all needs from the application. Images are stored into Registries.
