@@ -1,3 +1,4 @@
+1. [[MongoDB Cookbook]]
 # Normalization
 ## First formal norm (1NF)
 Each column should have a unique value without repeated groups. Split the table in two, keeping in the first table the original table data and into second table the grouped repeated data. After this, a relationship between the splited table shall appear.

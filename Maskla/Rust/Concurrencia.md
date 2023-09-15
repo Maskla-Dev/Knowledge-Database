@@ -1,0 +1,4 @@
+Encontramos en el entorno de Rust 2 posibles formas de obtener código concurrente: [[Async | funciones asincronas (async)]]y mediante [[Threads | Hilos]].
+
+Ambas se diferencian fuertemente en el apartado de datos e integración con el sistema operativo, por un lado los hilos son integrados con la lógica del sistema operativo donde se ejecuta, por lo que el uso de recursos es mayor ya que trata cada instancia de ejecución como un proceso independiente. Para async, no ocurre esto, ya que estos mismos son controlados por el hilo que crea la instancia y para el contexto del sistema operativo no son desconocidos, por lo que no es necesario crear y asociar demasiados metadatos para su funcionamiento. Estos últimos estan más cerca del modelo orientado a eventos que a un modelo de ejecución "paralela" (los hilos son más efectivos en este sentido).
+
